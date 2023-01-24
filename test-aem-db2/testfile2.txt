@@ -1,0 +1,15 @@
+# Specify your secrets here
+# This file must not be committed to source control
+## Adobe I/O Runtime credentials
+AIO_runtime_auth=a7748aaf-15e0-45bc-9015-dbae0e958827:6bU2340St05QQaYfXT32KC4DIt3YAD103O71w3tsP1sr6m4u48OR4hHO04HGylX3
+AIO_runtime_namespace=57606-aemdb2connector-dev
+AIO_runtime_apihost=https://adobeioruntime.net
+## Adobe I/O Console service account credentials (JWT) Api Key
+SERVICE_API_KEY=ec42035154e14606a93fae60b2cc46b6
+AIO_ims_contexts_AEM__DB2__Connector__J__1673966970094_client__id=ec42035154e14606a93fae60b2cc46b6
+AIO_ims_contexts_AEM__DB2__Connector__J__1673966970094_client__secret=p8e-oPXW4riS9wZYYUejLSUK1RqQHWTZcBZJ
+AIO_ims_contexts_AEM__DB2__Connector__J__1673966970094_technical__account__email=d08cf261-8e9a-4222-9e6f-2b95a53fbc3d@techacct.adobe.com
+AIO_ims_contexts_AEM__DB2__Connector__J__1673966970094_technical__account__id=16D029A963C6B57A0A495F89@techacct.adobe.com
+AIO_ims_contexts_AEM__DB2__Connector__J__1673966970094_meta__scopes=["ent_adobeio_sdk","event_receiver_api"]
+AIO_ims_contexts_AEM__DB2__Connector__J__1673966970094_ims__org__id=0B96B03459707BE40A495C70@AdobeOrg
+

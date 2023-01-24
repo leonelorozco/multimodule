@@ -1,0 +1,113 @@
+{
+  "project": {
+    "id": "4566206088344899979",
+    "name": "AEMDB2Connector",
+    "title": "AEM DB2 Connector",
+    "org": {
+      "id": "57606",
+      "name": "Bounteous Partner Sandbox",
+      "ims_org_id": "0B96B03459707BE40A495C70@AdobeOrg",
+      "details": {
+        "services": [
+          {
+            "name": "Adobe Stock",
+            "code": "StockSDK",
+            "type": "adobeid"
+          },
+          {
+            "name": "PDF Embed API",
+            "code": "ViewSDK",
+            "type": "adobeid"
+          },
+          {
+            "name": "Lightroom Services",
+            "code": "LightroomPartnersSDK",
+            "type": "adobeid"
+          },
+          {
+            "name": "Creative Cloud Libraries",
+            "code": "CC-Libraries-SDK",
+            "type": "adobeid"
+          },
+          {
+            "name": "Adobe Express Embed SDK",
+            "code": "CCEmbedCompanionAPI",
+            "type": "adobeid"
+          },
+          {
+            "name": "API Mesh for Adobe Developer App Builder",
+            "code": "GraphQLServiceSDK",
+            "type": "adobeid"
+          },
+          {
+            "name": "Adobe Commerce with Adobe ID",
+            "code": "AdobeCommerceWithAdobeID",
+            "type": "adobeid"
+          },
+          {
+            "name": "Primetime Ad Insertion",
+            "code": "Ad Config Service",
+            "type": "entp"
+          },
+          {
+            "name": "Experience Cloud Setup Automation",
+            "code": "DxSetupAutomationSDK",
+            "type": "entp"
+          },
+          {
+            "name": "I/O Management API",
+            "code": "AdobeIOManagementAPISDK",
+            "type": "entp"
+          },
+          {
+            "name": "Adobe Photoshop API",
+            "code": "CIS SDK",
+            "type": "entp"
+          },
+          {
+            "name": "Adobe I/O Events for Adobe Commerce",
+            "code": "commerceeventing",
+            "type": "entp"
+          },
+          {
+            "name": "I/O Events",
+            "code": "CloudIntegrationSDK",
+            "type": "entp"
+          },
+          {
+            "name": "Adobe Status API",
+            "code": "StatusAPISDK",
+            "type": "entp"
+          }
+        ]
+      }
+    },
+    "workspace": {
+      "id": "4566206088344906097",
+      "name": "Dev",
+      "title": "Dev",
+      "description": "Dev workspace.",
+      "action_url": "https://57606-aemdb2connector-dev.adobeioruntime.net",
+      "app_url": "https://57606-aemdb2connector-dev.adobeio-static.net",
+      "details": {
+        "credentials": [
+          {
+            "id": "386410",
+            "name": "AEM_DB2_Connector_J_1673966970094",
+            "integration_type": "service"
+          }
+        ],
+        "services": [
+          {
+            "code": "AdobeIOManagementAPISDK",
+            "name": "I/O Management API"
+          },
+          {
+            "code": "CloudIntegrationSDK",
+            "name": "I/O Events"
+          }
+        ]
+      }
+    }
+  }
+}
